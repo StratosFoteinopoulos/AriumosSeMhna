@@ -1,0 +1,7 @@
+C:\Users\stratos\source\repos\AriumosSeMhna\AriumosSeMhna\bin\Debug\AriumosSeMhna.exe.config
+C:\Users\stratos\source\repos\AriumosSeMhna\AriumosSeMhna\bin\Debug\AriumosSeMhna.exe
+C:\Users\stratos\source\repos\AriumosSeMhna\AriumosSeMhna\bin\Debug\AriumosSeMhna.pdb
+C:\Users\stratos\source\repos\AriumosSeMhna\AriumosSeMhna\obj\Debug\AriumosSeMhna.csprojAssemblyReference.cache
+C:\Users\stratos\source\repos\AriumosSeMhna\AriumosSeMhna\obj\Debug\AriumosSeMhna.csproj.CoreCompileInputs.cache
+C:\Users\stratos\source\repos\AriumosSeMhna\AriumosSeMhna\obj\Debug\AriumosSeMhna.exe
+C:\Users\stratos\source\repos\AriumosSeMhna\AriumosSeMhna\obj\Debug\AriumosSeMhna.pdb
